@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tord
 
-<!--
-**TordLoefgren/TordLoefgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C#/.NET developer with professional experience working on production desktop software using C# and Python.
 
-Here are some ideas to get you started:
+I use focused projects to explore new technologies, follow my curiosity, and find gaps in my knowledge. When I find one, I experiment with the fundamentals until I understand how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Experience and exploration
+
+| Professional experience | Project-based exploration |
+| --- | --- |
+| `C#` · `.NET` · `WPF/MVVM` · `Python` · `Git` | `C++` · `TypeScript` · `OpenGL` · computer graphics · performance · engine architecture |
+
+---
