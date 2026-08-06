@@ -1,5 +1,3 @@
-# Tord Løfgren
-
 **C#/.NET software developer** with professional experience in production desktop software using C# and Python.  
 <sub>BSc in Computer Science · University of Copenhagen</sub>
 
