@@ -1,7 +1,7 @@
-**C#/.NET software developer** with professional experience contributing to a production desktop application built with C#, WPF, and Python.  
+**C#/.NET software developer** with professional experience in production desktop software using C#, WPF, and Python.  
 <sub>BSc in Computer Science · University of Copenhagen</sub>
 
-> I use focused projects to explore new technologies, follow my curiosity, and uncover gaps in my knowledge. When I find one, I return to the fundamentals and experiment until I understand how things work.
+> I like to learn by building, trying ideas, and following my curiosity. My projects give me room to explore new technologies, experiment, and occasionally dig into how things work under the hood.
 
 ---
 
