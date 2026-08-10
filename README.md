@@ -1,7 +1,7 @@
 **C#/.NET software developer** with professional experience in production desktop software using C#, WPF, and Python.  
-<sub>BSc in Computer Science · University of Copenhagen</sub>
+BSc in Computer Science · University of Copenhagen
 
-> I like to learn by building, trying ideas, and following my curiosity. My projects give me room to explore new technologies, experiment, and occasionally dig into how things work under the hood.
+I like learning by building and trying things out. Personal projects give me room to work with technologies that are new to me, experiment with ideas, and dig into how things work under the hood. If one of those experiments reaches a point I can stand behind, it may end up here.
 
 ---
 
