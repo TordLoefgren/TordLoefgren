@@ -9,4 +9,4 @@ I like learning by building and trying things out. Personal projects give me roo
 `C#` · `.NET` · `WPF/MVVM` · `Python` · `Git`
 
 **Exploring through projects**  
-`C++` · `TypeScript` · `OpenGL` · computer graphics · performance · engine architecture
+`C++` · `TypeScript` · `OpenGL` · computer graphics · engine architecture · embedded systems · electronics · performance
